@@ -1,4 +1,3 @@
-import './App.css'
 import {FormBuilder} from "./components/FormBuilder.tsx";
 import {FormView} from "./components/FormView.tsx";
 import {Grid} from "@mui/material";
